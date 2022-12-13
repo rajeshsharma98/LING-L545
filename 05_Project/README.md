@@ -1,5 +1,5 @@
 # Project  : Delegates Information Extraction 
-Merger and Acquisition (M & A) activity is exponentially increasing with time and has increased from $1400 billion to $2600 billion solely in the USA in the past 15 years only. Information of M&A deals between two organizations is readily available on the internet, but to get further insights into the data, one must go further into the press release or blogs to get information about the delegations involved. In this work, we consider extracting the delegate’s information like name and job position of the people that were involved in the process using various NLP techniques.
+Merger and Acquisition (M & A) activity is exponentially increasing with time and has increased from $1400 billion to $2600 billion in the USA in the past 15 years. Information of M&A deals between two organizations is readily available on the internet. However, to get further insights into the data, one must go further into the press release or blogs to get information about the delegations involved. In this work, we consider extracting the delegate’s information like name and job position of the people involved in the process using various NLP techniques.
 
 
 
